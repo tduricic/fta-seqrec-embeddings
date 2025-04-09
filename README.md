@@ -1,4 +1,3 @@
-```markdown
 # Assisted Fault Tree Construction using Sequential Recommendation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
