@@ -146,5 +146,4 @@ If you find this work useful in your research, please consider citing our paper:
 
 ## Contact
 
-For questions about the paper or code, please contact [Your Name] at [your.email@example.com] or open an issue in this repository.
-```
+For questions about the paper or code, please contact [Tomislav Duricic](https://tduricic.me/) at [tduricic@know-center.at] or open an issue in this repository.
